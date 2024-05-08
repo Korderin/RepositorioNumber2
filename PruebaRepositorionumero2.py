@@ -3,3 +3,6 @@ def saludo():
 
 def despedida():
     print("Muchas gracias por usar esta app")
+
+def pregunta():
+    print("Tomo desayuno hoy mijito?")
